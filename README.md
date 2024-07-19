@@ -124,4 +124,8 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzammahmoud95&show_icons=true&locale=en&layout=compact" alt="azzammahmoud95" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzammahmoud95&show_icons=true&locale=en" alt="azzammahmoud95" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azzammahmoud95&" alt="azzammahmoud95" /></p>
