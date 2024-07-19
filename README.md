@@ -124,8 +124,10 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzammahmoud95&show_icons=true&locale=en&layout=compact" alt="azzammahmoud95" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzammahmoud95&show_icons=true&locale=en" alt="azzammahmoud95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azzammahmoud95&" alt="azzammahmoud95" /></p>
+<div align="center">
+   <img src="https://streak-stats.demolab.com?user=azzammahmoud95&locale=en&mode=daily&theme=react&hide_border=false&border_radius=10&order=3" height="260" alt="streak graph"  />
+  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzammahmoud95&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzammahmoud95&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
