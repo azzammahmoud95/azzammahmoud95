@@ -124,10 +124,12 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=azzammahmoud95&locale=en&mode=daily&theme=react&hide_border=false&border_radius=10&order=3" height="260" alt="streak graph"  />
-  </div>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzammahmoud95&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzammahmoud95&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+<div align="center"  style="margin-top:0.5rem;margin-right:0.7rem;margin-left:0.7rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzammahmoud95&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&border_radius=10" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzammahmoud95&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2&border_radius=10" height="150" alt="languages graph"  />
+
+<!-- <div align="center" width="50%"> -->
+   <img src="https://streak-stats.demolab.com?user=azzammahmoud95&locale=en&mode=daily&theme=react&hide_border=false&border_radius=10&order=3"  height="270" alt="streak graph"  />
+  <!-- </div> -->
+</div>  
