@@ -14,7 +14,6 @@
   <li>I'm actively learning every day 📚</li>
   <li>My goal is to help people and solve their problems 🎯</li>
 </ul>
-###
 
 <h2 align="left">🔗Connect with me</h2>
 
