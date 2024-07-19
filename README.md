@@ -1,8 +1,5 @@
 <h1 align="center">Hey  👋 , I'm Azzam Mahmoud</h1>
 
-###
-
-<br clear="both">
 
 <p align="center">Full Stack Web Developer</p>
 
