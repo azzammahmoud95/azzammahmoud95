@@ -1,13 +1,7 @@
 <h1 align="center">Hey  👋 , I'm Azzam Mahmoud</h1>
 
 
-<p align="center">Full Stack Web Developer</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h3 align="center">Full-Stack Web Developer</h3>
 
 <ul>
   <li>Creating bugs since my first "Hello World" 😄</li>
